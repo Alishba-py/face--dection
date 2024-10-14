@@ -1,4 +1,4 @@
 Flask==2.2.3
 opencv-python==4.6.0.66
 python-dotenv==0.21.0
-pip install flask opencv-python opencv-python-headless numpy python-dotenv
+pip install flask opencv-python opencv-python-headless numpy python-dotenv tensorflow openai
