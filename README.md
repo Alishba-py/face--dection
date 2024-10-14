@@ -29,12 +29,9 @@ bash
 ## Running the Application
 #activated your virtual environment
 Execute the following command in your terminal:
--**python app.py**
+**python app.py**
 Access the Application:
---**Open your web browser and go 
+**Open your web browser and go 
 http://localhost:5000**
 
- **Update the Image Path**
-
-   ```markdown
-   ![Face Detection Example][]
+ 
