@@ -2,12 +2,11 @@
 
 ## Description
 
-This project is a web application built with Flask that incorporates real-time face detection using OpenCV. The application allows users to access their webcam, detect faces in live video feeds, and display age and gender placeholders. Users can also download the recorded video of the session.
+This project is a web application built with Flask that incorporates real-time face detection using OpenCV. The application allows users to access their webcam, detect faces in live video feeds,  Users can also download the recorded video of the session.
 
 ### Features
 
 - **Real-time Face Detection**: Utilizes OpenCV to detect faces in a webcam feed.
-- **Age and Gender Placeholders**: Displays placeholder text for age and gender on detected faces.
 - **Video Recording**: Records the video feed and saves it as an AVI file.
 - **Download Option**: Provides an option to download the recorded video.
 
