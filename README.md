@@ -34,3 +34,7 @@ Access the Application:
 --**Open your web browser and go 
 http://localhost:5000**
 
+ **Update the Image Path**
+
+   ```markdown
+   ![Face Detection Example][]
